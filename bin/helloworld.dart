@@ -1,6 +1,8 @@
 //import 'package:helloworld/helloworld.dart' as helloworld;
-import 'package:helloworld/exo1.dart' as exo1;
+import 'package:helloworld/exercice01.dart' as exercice01;
+import 'package:helloworld/exercice02.dart' as exercice02;
 
 void main(List<String> arguments) {
-  exo1.run();
+  exercice01.run();
+  exercice02.run();
 }
